@@ -51,6 +51,13 @@ git push -u origin add-about-me
 - **Why it interests me (one sentence):**
 ```
 
+## About me
+
+- **Name:** Lim Kai Xi
+- **Programme:** Bachelor of Computer Science (BCS)
+- **One AI topic I am curious about:** Algorithmic trading and market prediction
+- **Why it interests me (one sentence):** How machine learning models recognize patterns in volatile financial data to make better trading decisions.
+
 ---
 
 ## Rules
